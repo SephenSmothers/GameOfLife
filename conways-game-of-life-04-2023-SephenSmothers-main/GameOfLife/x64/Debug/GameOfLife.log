@@ -1,0 +1,9 @@
+﻿  App.cpp
+  Dialog.cpp
+  DrawingPanel.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\ProjectPortfolio1\conways-game-of-life-04-2023-SephenSmothers-main\conways-game-of-life-04-2023-SephenSmothers-main\GameOfLife\DrawingPanel.cpp(7,1): warning C4002: too many arguments for function-like macro invocation 'EVT_PAINT'
+C:\Users\sephe\Desktop\FS Classes\Programing\ProjectPortfolio1\conways-game-of-life-04-2023-SephenSmothers-main\conways-game-of-life-04-2023-SephenSmothers-main\GameOfLife\DrawingPanel.cpp(8,1): warning C4002: too many arguments for function-like macro invocation 'EVT_LEFT_UP'
+  MainWindow.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\ProjectPortfolio1\conways-game-of-life-04-2023-SephenSmothers-main\conways-game-of-life-04-2023-SephenSmothers-main\GameOfLife\MainWindow.cpp(38,1): warning C4002: too many arguments for function-like macro invocation 'EVT_SIZE'
+  Generating Code...
+  GameOfLife.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\ProjectPortfolio1\conways-game-of-life-04-2023-SephenSmothers-main\conways-game-of-life-04-2023-SephenSmothers-main\x64\Debug\GameOfLife.exe
